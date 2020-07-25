@@ -104,3 +104,4 @@ C:\Users\Sarika Kumari\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\Micr
 C:\Users\Sarika Kumari\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.OAuth.dll
 C:\Users\Sarika Kumari\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\Owin.dll
 C:\Users\Sarika Kumari\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sarika Kumari\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\MenuItemdepl.yaml
